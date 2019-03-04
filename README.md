@@ -5,3 +5,5 @@ Maker Media GmbH
 
 # ESP32-Special
 Beispielprogramme für das ESP32-Special
+
+![Cover](https://github.com/MakeMagazinDE/ESP32-Special/blob/master/preview.png)
