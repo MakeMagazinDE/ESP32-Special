@@ -28,19 +28,19 @@ void loop() {
 
 String authModeToText(wifi_auth_mode_t authMode) { 
   switch (authMode) {
-    case (WIFI_AUTH_OPEN):
+    case WIFI_AUTH_OPEN:
       return "Offen";
-    case (WIFI_AUTH_WEP):
+    case WIFI_AUTH_WEP:
       return "WEP";
-    case (WIFI_AUTH_WPA_PSK):
+    case WIFI_AUTH_WPA_PSK:
       return "WPA PSK";
-    case (WIFI_AUTH_WPA2_PSK):
+    case WIFI_AUTH_WPA2_PSK:
       return "WPA2 PSK";
-    case (WIFI_AUTH_WPA_WPA2_PSK):
+    case WIFI_AUTH_WPA_WPA2_PSK:
       return "WPA/WPA2 PSK";
-    case (WIFI_AUTH_WPA2_ENTERPRISE):
+    case WIFI_AUTH_WPA2_ENTERPRISE:
       return "WPA2 ENTERPRISE";
-    case (WIFI_AUTH_MAX):
+    case WIFI_AUTH_MAX:
       return "MAX";
     default:
       return "Unbekannt";  
