@@ -1,5 +1,5 @@
 Errata:
 
-S.14 Bei der zusätzlichen Beschriftung voon GPIO 25 muss es statt ADC1_CH8 ADC2_CH8 heißen.
+S.14 Bei der zusÃ¤tzlichen Beschriftung von GPIO 25 muss es statt ADC1_CH8 ADC2_CH8 heiÃŸen.
 
-S.51. Bei 1000 Messungen summiert sich die Gesamtwartezeit so auf 100 Millisekunden (statt "eine Millisekunde"), was für die meisten Anwendungen vernachlässigbar sein dürfte
+S.51. Bei 1000 Messungen summiert sich die Gesamtwartezeit so auf 100 Millisekunden (statt "eine Millisekunde"), was fÃ¼r die meisten Anwendungen vernachlÃ¤ssigbar sein dÃ¼rfte.
